@@ -1,0 +1,174 @@
+.table,td{
+    border: 1px black solid;
+    height: 50px;
+    width: 1000px;
+}
+.row1{
+    border: 1px black;
+
+    height: 40px;
+    width: 40px;
+}
+.row2{ border: 1px black;
+    height: 20px;
+    width: 40px;
+}
+.row3{
+    border: 1px black; height: 40px;
+    width: 40px;
+}
+.row4{
+    border: 1px black;
+    height: 40px;
+    width: 40px;
+}
+body{
+    margin: auto; width: 50%;
+}
+#C11{border: 1px black solid;
+    height: 150px;
+    width: 1000px;
+    background-color:red;
+
+}
+#C12{border: 1px black solid;
+    height: 150px;
+    width: 1000px;
+    background-color: blue;
+}
+#C13{border: 1px black solid;
+    height: 150px;
+    width: 1000px;
+    background-color: red;
+}
+#C14{border: 1px black solid;
+    height: 150px;
+    width: 1000px;
+    background-color: blue;
+}
+#C21{
+    border: 1px black solid;
+    height: 150px;
+    width: 1000px;
+    background-color: red;
+}
+#C22{border: 1px black solid;
+    height: 150px;
+    width: 1000px;
+    background-color:blue;
+}
+#C23{border: 1px black solid;
+    height: 150px;
+    width: 1000px;
+    background-color: red;
+}
+#C24{border: 1px black solid;
+    height: 150px;
+    width: 1000px;
+    background-color: blue;
+}
+#C31{border: 1px black solid;
+    height: 150px;
+    width: 1000px;
+    background-color: red;
+}
+#C32{border: 1px black solid;
+    height: 150px;
+    width: 1000px;
+    background-color: blue;
+}
+#C33{border: 1px black solid;
+    height: 150px;
+    width: 1000px;
+    background-color: red;
+}
+#C34{;
+    height: 150px;
+    width: 1000px;
+    background-color: blue;
+}
+#c41{border: 1px black solid;
+    height: 150px;
+    width: 1000px;
+    background-color: red;
+}
+#c42{border: 1px black solid;
+    height: 150px;
+    width: 1000px;
+    background-color: blue;
+}
+#c43{border: 1px black solid;
+    height: 150px;
+    width: 1000px;
+    background-color: red;
+}
+#c44{border: 1px black solid;
+    height: 150px;
+    width: 1000px;
+    background-color: blue;
+}
+.X{
+    height: 60px;
+    width: 60px;
+}
+.O{
+    height: 60px;
+    width: 60px;
+
+}
+.lift{
+    float: left;
+}
+#C11:hover{
+    background-color: darkred;
+}
+#C12:hover{
+    background-color: darkblue;
+}
+#C13:hover{
+    background-color: darkred;
+}
+#C14:hover{
+    background-color:  darkblue;
+}
+#C21:hover{
+    background-color: darkred;
+}
+#C22:hover{
+    background-color: darkblue;
+}
+#C23:hover{
+    background-color: darkred;
+}
+#C24:hover{
+    background-color: darkblue;
+}
+#C31:hover{
+    background-color: darkred;
+}
+#C32:hover{
+    background-color:  darkblue;
+}
+#C33:hover{
+    background-color: darkred;
+}
+#C34:hover{
+    background-color:  darkblue;
+}
+#c41:hover {
+    background-color: darkred;
+}
+#c42:hover {
+    background-color: darkblue;
+}
+#c43:hover {
+    background-color: darkred;
+}
+#c44:hover {
+    background-color: darkblue;
+    visibility: hidden;
+    z-index:-2;
+}
+p{
+    z-index:-1;
+}
